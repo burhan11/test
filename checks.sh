@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "hello abhinav"
 
 echo "enter filename"
 
